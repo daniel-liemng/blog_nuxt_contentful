@@ -1,0 +1,21 @@
+{
+  "name": "blog_nuxt_contentful",
+  "version": "1.0.0",
+  "description": "Nuxt and Contentful project",
+  "author": "Hoang Liem Nguyen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/markdownit": "^1.2.9",
+    "bulma": "^0.8.1",
+    "contentful": "^7.14.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
